@@ -8,7 +8,7 @@ h1 {
   font-family: Helvetica;
   text-align: center;
   color: #DF5D11;
-  font-size: 75%;
+  font-size: 175%;
 }
 
 /*color: */
@@ -21,7 +21,7 @@ h2 {
   margin-bottom: 15px;
   font-family: Helvetica;
   color: #669999;
-  font-size: 25%;
+  font-size: 125%;
 }
 
 p {
@@ -134,7 +134,7 @@ p {
 
 /********** Small devices only **********/
 @media (max-width: 767px) {
-  .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12 {
+  .col-sm-12 {
     float: left;
     background-color: #669999;
     border: 1px solid black;
