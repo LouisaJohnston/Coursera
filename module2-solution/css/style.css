@@ -7,10 +7,12 @@
 h1 {
   margin-bottom: 15px;
   font-family: Helvetica;
-  color: #DF5D11;
   text-align: center;
+  color: black;
   font-size: 75%;
 }
+
+/*color: #DF5D11;*/
 
 h2 {
   border: 1px solid black;
