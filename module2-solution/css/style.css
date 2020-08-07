@@ -7,6 +7,8 @@ h1 {
   margin-bottom: 15px;
   font-family: Helvetica;
   color: #DF5D11;
+  text-align: center;
+  font-size: 75%;
 }
 
 h2 {
@@ -17,6 +19,7 @@ h2 {
   margin-bottom: 15px;
   font-family: Helvetica;
   color: #669999;
+  font-size: 25%;
 }
 
 p {
